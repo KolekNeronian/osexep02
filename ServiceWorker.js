@@ -1,9 +1,9 @@
 const cacheName = "Hrajme.ue-Pexeso-1.0";
 const contentToCache = [
-    "Build/Pex4.loader.js",
-    "Build/Pex4.framework.js",
-    "Build/Pex4.data",
-    "Build/Pex4.wasm",
+    "Build/pex05.loader.js",
+    "Build/pex05.framework.js",
+    "Build/pex05.data",
+    "Build/pex05.wasm",
     "TemplateData/style.css"
 
 ];
